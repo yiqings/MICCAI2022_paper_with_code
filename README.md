@@ -81,7 +81,7 @@
 
 ---
 ## 8. Data Augmentation
-**apePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation**
+**SapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation**
 - Paper: https://arxiv.org/abs/2206.02118
 - Code: https://github.com/BWGZK/ShapePU
 

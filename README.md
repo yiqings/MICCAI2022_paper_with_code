@@ -85,3 +85,7 @@
 - Paper: https://arxiv.org/abs/2206.02118
 - Code: https://github.com/BWGZK/ShapePU
 
+**RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization**
+- Paper: https://arxiv.org/abs/2206.12694
+- Code: https://github.com/yiqings/RandStainNA
+

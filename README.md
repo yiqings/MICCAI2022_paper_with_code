@@ -1,5 +1,7 @@
-# MICCAI 2022 Paper with Codes
+# MICCAI 2022 Paper with Codes 
 
+This repository is still under construction.
+Please help yourself to join 😊.
 
 ## Contents
 - [1. Backbone](##1.-Backbone)
@@ -116,3 +118,10 @@ images.
 - Code: https://github.com/yiqings/RandStainNA
 - Data Modality: Histology.
 - Task: Classification, Segmentation.
+
+
+---
+## Inclusion Critertion 
+In this initial stage where MICCAI papers are not official published,
+we use the key world `MICCAI 2022` on github to search the associated respoitory. 
+Afterwards, we primary check if there is a pre-print version on arXiv.

@@ -86,8 +86,8 @@ images.
 - Task:
 
 **NVUM: Non-Volatile Unbiased Memory for Robust Medical Image Classification**
-- Paper: https://github.com/FBLADL/NVUM
-- Code: https://arxiv.org/abs/2103.04053
+- Paper: https://arxiv.org/abs/2103.04053
+- Code: https://github.com/FBLADL/NVUM
 - Data Modality:
 - Task:
 

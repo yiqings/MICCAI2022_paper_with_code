@@ -12,6 +12,7 @@ Please help yourself to join 😊.
 - [6. Imbalanced Data](##6.-Imbalanced-Data)
 - [7. Multi Modal](##7.-Multi-Modal)
 - [8. Data Augmentation](##8.-Data-Augmentation)
+- [9. Knowledge Distillation](##9.-Knowledge-Distillation)
 
 ---
 ## 1. Backbone
@@ -20,9 +21,14 @@ Please help yourself to join 😊.
 - Paper: https://arxiv.org/abs/2203.04967
 - Code: https://github.com/jeya-maria-jose/UNeXt-pytorch
 - Project Website: https://jeya-maria-jose.github.io/UNext-web/
-- Data Modality: Camera-acquired dermatologic images, Ultrasound
-images.
+- Data Modality: Camera-acquired dermatologic images, Ultrasound images.
 - Task: Segmentation.
+
+**Spatial-Hierarchical Graph Neural Network with Dynamic Structure Learning for Histological Image Classification**
+- Paper: https://link.springer.com/chapter/10.1007/978-3-031-16434-7_18
+- Code: https://github.com/HeLongHuang/SHGNN
+- Data Modality: Histology.
+- Task:
 
 ---
 ## 2. Multi Task Learning
@@ -68,13 +74,31 @@ images.
 - Data Modality:
 - Task:
 
+**Transformer Based Multiple Instance Learning for Weakly Supervised Histopathology Image Segmentation**
+- Paper: https://arxiv.org/pdf/2205.08878
+- Code: https://github.com/Nexuslkl/Swin_MIL
+- Data Modality: Histology.
+- Task: Segmentation.
+
+**Uncertainty Aware Sampling Framework of Weak-Label Learning for Histology Image Classification**
+- Paper: https://link.springer.com/chapter/10.1007/978-3-031-16434-7_36
+- Code: https://github.com/machiraju-lab/UA-CNN
+- Data Modality: Histology.
+- Task: Classification.
+
+**SETMIL: Spatial Encoding Transformer-Based Multiple Instance Learning for Pathological Image Analysis**
+- Paper: https://link.springer.com/chapter/10.1007/978-3-031-16434-7_7
+- Code: https://github.com/TencentAILabHealthcare/SETMIL.git
+- Data Modality: Histology.
+- Task: Classification.
+
 ---
 ## 5. Semi Supervised Learning
 
 **Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation**
 - Paper: https://arxiv.org/pdf/2203.01324.pdf
 - Code: https://github.com/ycwu1997/SS-Net
-- Data Modality:
+- Data Modality: 
 - Task:
 
 ---
@@ -116,9 +140,22 @@ images.
 **RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization**
 - Paper: https://arxiv.org/abs/2206.12694
 - Code: https://github.com/yiqings/RandStainNA
-- Data Modality: Histology.
+- Data Modality: MRI
 - Task: Classification, Segmentation.
 
+**SUPER-IVIM-DC: Intra-voxel Incoherent Motion Based Fetal Lung Maturity Assessment from Limited DWI Data Using Supervised Learning Coupled with Data-Consistency**
+- Paper: https://arxiv.org/pdf/2206.03820
+- Code: https://github.com/TechnionComputationalMRILab/SUPER-IVIM-DC
+- Data Modality: DWI MRI.
+- Task:
+
+---
+## 9. Knowledge-Distillation
+**Distilling Knowledge from Topological Representations for Pathological Complete Response Prediction**
+- Paper: https://link.springer.com/chapter/10.1007/978-3-031-16434-7_6
+- Code: https://github.com/zoedsy/DK_Topology_PCR
+- Data Modality: MRI
+- Task:
 
 ---
 ## Inclusion Critertion 
